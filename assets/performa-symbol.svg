@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Símbolo Performa</title>
+  <desc id="desc">Monograma P construído por três fluxos que convergem em uma estrutura única, representando processos, inteligência e resultado.</desc>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M24 96V24H63C82 24 96 36 96 53C96 70 82 82 63 82H24" stroke="#17211F" stroke-width="14"/>
+    <path d="M24 43H68" stroke="#B6C83C" stroke-width="8"/>
+    <path d="M24 62H62" stroke="#B6C83C" stroke-width="8"/>
+  </g>
+</svg>
