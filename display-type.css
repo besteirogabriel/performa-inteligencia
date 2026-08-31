@@ -1,0 +1,44 @@
+/* Display typography — Performa */
+:root{
+  --display:"Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+}
+
+.hero h1,
+.about-copy h2,
+.section-head h2,
+.method-title h2,
+.manifesto h2,
+.contact-copy h2,
+.solution-item h3,
+.method-step h3{
+  font-family:var(--display);
+  font-optical-sizing:auto;
+  font-style:normal;
+}
+
+.hero h1{
+  font-weight:600;
+  line-height:.84;
+  letter-spacing:-.025em;
+}
+
+.about-copy h2,
+.section-head h2,
+.method-title h2,
+.manifesto h2,
+.contact-copy h2{
+  font-weight:600;
+  line-height:.91;
+  letter-spacing:-.018em;
+}
+
+.solution-item h3{
+  font-weight:600;
+  line-height:.96;
+  letter-spacing:-.012em;
+}
+
+.method-step h3{
+  font-weight:600;
+  letter-spacing:-.01em;
+}
